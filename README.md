@@ -1,2 +1,1 @@
-# All lessons
-## Made edit
+## ``Temporarily the readme will be empty``
