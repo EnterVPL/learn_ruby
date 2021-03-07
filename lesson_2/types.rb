@@ -15,4 +15,8 @@ puts myVar
 puts
 puts "Podaj swoja nazwe: "
 yourName = gets
-puts "Twoja nazwa to: " + yourName
+otherVar = "Twoja nazwa to: " + yourName
+puts otherVar
+
+otherVar2 = otherVar + " - i jest bardzo ładna"
+puts otherVar2
